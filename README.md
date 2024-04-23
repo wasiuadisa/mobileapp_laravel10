@@ -6,14 +6,14 @@ This is an API for an application with the authentication implemented in Laravel
 
 Change the *.env.example* to *.env* and add your database info
 
-For SQLite, add
+For MySQL, add
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 ```
 
-Create a database matching your parameters in ".env" fe
+Create a database matching your parameters in ".env" file
 
 ```
 # Run the webserver on port 8000
